@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor temp files
+*.bak
+*.swp
+*~
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Unity project artifacts (not part of this skill repo)
+Builds/
+Library/
+Temp/
+*.csproj
+*.sln

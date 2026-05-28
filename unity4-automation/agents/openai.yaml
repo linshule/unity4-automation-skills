@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Unity 4.x Automation"
+  short_description: "Automate Unity 4.6.8 builds, assets, and editor scripting"
+  default_prompt: "Use $unity4-automation to automate Unity 4.6.8 batch builds, editor scripts, or CI pipeline operations."
