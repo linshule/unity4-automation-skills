@@ -48,6 +48,10 @@ The scripts under `scripts/` and references under `references/` are standalone �
 | `scripts/batch_set_texture_format.cs` | `Assets/Editor/` |
 | `scripts/unity_batch_build.ps1` | Project root or CI pipeline directory |
 
+## 中文文档
+
+[README.zh-CN.md](README.zh-CN.md) — 中文版说明文档
+
 ## License
 
 MIT
